@@ -1,0 +1,5 @@
+PyJWT
+pandas
+urllib
+requests
+pyupbit
